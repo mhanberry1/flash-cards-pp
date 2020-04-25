@@ -1,0 +1,5 @@
+.*.swp
+lib/*
+bin/*
+obj/*
+flashcards-cli
